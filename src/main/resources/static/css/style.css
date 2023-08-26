@@ -1,0 +1,25 @@
+
+
+.bg-primary{
+	background:#009688 !important ;
+}
+.banner{
+	Width:100%;
+	height:93vh;
+	background-image: urL(../img/banner.jpg);
+	background-size:cover;
+	background-repeat:no-repeat ;
+	color:white;
+
+}
+
+.btn{
+margin:10px;
+}
+
+.vh-100{
+	
+	background-image: urL(../img/Register.jpg.jpg);
+	background-size:cover;
+
+}
